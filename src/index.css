@@ -69,6 +69,11 @@
 
   #lovable-badge {
     display: none !important;
+    visibility: hidden;
+    pointer-events: none;
+  }
+  [data-lovable-widget] {
+    display: none !important;
   }
 }
 
