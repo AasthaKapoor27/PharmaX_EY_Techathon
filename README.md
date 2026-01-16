@@ -1,5 +1,7 @@
 # PharmaX.ai
 
+🚀 **Live Deployment:** https://pharmaxaiey.vercel.app/
+
 PharmaX.ai is a lightweight Vite + React + TypeScript application that helps researchers explore drug repurposing opportunities by aggregating market insights, clinical trials, patents, and literature — and visualizing relationships with an interactive knowledge graph.
 
 ## Quick Features
@@ -12,7 +14,7 @@ PharmaX.ai is a lightweight Vite + React + TypeScript application that helps res
 
 ## Getting Started
 
-Prerequisites
+### Prerequisites
 - Node.js (18+) and npm
 
 ```sh
@@ -27,15 +29,4 @@ npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
