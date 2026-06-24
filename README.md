@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+<div align="center">
 
 # 💊 PharmaX.ai
 
@@ -6,13 +6,13 @@
 
 **Built for the EY Techathon** · Powered by Agentic AI · React + TypeScript + Vite
 
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&amp;logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&amp;logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&amp;logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?logo=tailwindcss&amp;logoColor=white)](https://tailwindcss.com/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&amp;logoColor=white)](https://vercel.com/)
+[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://vercel.com/)
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -73,7 +73,7 @@ Enter any drug name and seven specialized AI agents orchestrate in real-time to 
 
 ## 📁 Project Structure
 
-```
+```text
 pharmax-ey-techathon/
 ├── public/                     # Static assets
 ├── src/
@@ -160,7 +160,7 @@ npm run preview
 4. **Knowledge Graph** — Visual exploration of drug-disease-target relationships
 5. **Export Dossier** — Download a full PDF report
 
-&gt; **Note:** The current version uses a mock data service (`mockDataService.ts`) that returns curated data for `Metformin` and dynamically generated data for all other drug queries. Integration with live LLM/API backends is roadmapped.
+> **Note:** The current version uses a mock data service (`mockDataService.ts`) that returns curated data for `Metformin` and dynamically generated data for all other drug queries. Integration with live LLM/API backends is roadmapped.
 
 ---
 
@@ -182,6 +182,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-&lt;div align="center"&gt;
-Built with ❤️ for the EY Techathon
-&lt;/div&gt;
+<div align="center">
+
+**Built with ❤️ by [Aastha Kapoor](https://github.com/AasthaKapoor27)**
+
+*If you found this useful, please ⭐ star the repository!*
+
+</div>
